@@ -232,7 +232,7 @@ function create_config( )
     about_text = [[A.M ANTI SPAM - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/
+https://github.com/AMKING7/THE-A.M-7
 Our team!
 @AMMEHRSE7EN
 @BANDM1234567
